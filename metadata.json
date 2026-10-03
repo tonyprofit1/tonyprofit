@@ -1,0 +1,6 @@
+{
+  "name": "Tony's Restaurant Cost Control",
+  "description": "A mobile-first offline PWA for restaurant food cost management, recipe costing, menu pricing, waste tracking, and yield calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
